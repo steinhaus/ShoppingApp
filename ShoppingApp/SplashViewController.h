@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SplashViewController.h
 //  ShoppingApp
 //
 //  Created by Felipe Gringo on 10/10/12.
@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+#import "UIViewControllerLandscape.h"
+@interface SplashViewController : UIViewControllerLandscape
 
 @end
